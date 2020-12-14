@@ -33,5 +33,3 @@ cnpm install vue-cli-service -g
 
 #### 使用说明
 
-#### 参与贡献
-
